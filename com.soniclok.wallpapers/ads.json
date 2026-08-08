@@ -42,7 +42,7 @@
       ],
   "AppControl":{
     "OnesignalID":"0128ec07-6774-4d4f-ac16-dbc721d011da",
-    "ShowUpdate":false,
+    "ShowUpdate":true,
     "UpdateLink":"xxxxx",
     "UpdateVersion":1,
     "ShowMockupData":false,
