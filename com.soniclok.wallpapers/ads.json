@@ -45,8 +45,8 @@
     "ShowUpdate":false,
     "UpdateLink":"xxxxx",
     "UpdateVersion":1,
-    "ShowMockupData":true,
-    "UpdateFromAmazon":true,
+    "ShowMockupData":false,
+    "UpdateFromAmazon":false,
     "ShowCategories":false
   },
   "CpaAds":{
