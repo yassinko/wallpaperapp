@@ -45,9 +45,9 @@
     "ShowUpdate":false,
     "UpdateLink":"xxxxx",
     "UpdateVersion":1,
-    "ShowMockupData":false,
+    "ShowMockupData":true,
     "UpdateFromAmazon":true,
-    "ShowCategories":true
+    "ShowCategories":false
   },
   "CpaAds":{
     "CpaCode":"bnc00",
